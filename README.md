@@ -16,4 +16,4 @@ git clone https://github.com/M-Ghasemi/Advanced-Algorithms.git
 
 ## Authors
 
-* **[Mohammad Sadegh Ghasemi](www.linkedin.com/in/mohammad-sadegh-ghasemi-40)**
+* **[Mohammad Sadegh Ghasemi](https://www.linkedin.com/in/mohammad-sadegh-ghasemi-40)**
