@@ -1,5 +1,5 @@
 """
-This file includes various implementations of Knapsack.
+This file includes various implementations of 0-1 Knapsack problem.
 
 # Usage example
 # creating a random kp instance
