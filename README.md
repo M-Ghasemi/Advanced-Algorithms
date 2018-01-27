@@ -16,6 +16,4 @@ git clone https://github.com/M-Ghasemi/Advanced-Algorithms.git
 
 ## Authors
 
-* **Billie Thompson**
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **[Mohammad Sadegh Ghasemi](www.linkedin.com/in/mohammad-sadegh-ghasemi-40)**
